@@ -11,7 +11,7 @@ Here are some of the results we obtained with the dataset `zoo.data`
 
 
 Tested Biclusterer class fr.isep.algoprogra.biclustering.algorithm.ColumnPositiveScanBiClusterer 10 times in 3290 ms.
-         |venomous |tail |hasNoLegs |
+`         |venomous |tail |hasNoLegs |
 pitviper |1        |1    |1         |
 seasnake |1        |1    |1         |
 stingray |1        |1    |1         |
@@ -210,6 +210,6 @@ polecat  |1    |1    |1        |1       |1        |1        |1    |1           |
 puma     |1    |1    |1        |1       |1        |1        |1    |1           |
 pussycat |1    |1    |1        |1       |1        |1        |1    |1           |
 raccoon  |1    |1    |1        |1       |1        |1        |1    |1           |
-wolf     |1    |1    |1        |1       |1        |1        |1    |1           |
+wolf     |1    |1    |1        |1       |1        |1        |1    |1           |'
 
 
