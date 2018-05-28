@@ -1,0 +1,37 @@
+Tested Biclusterer class fr.isep.algoprogra.biclustering.algorithm.ColumnPositiveScanBiClusterer 10 times in 3290 ms.
+         |venomous |tail |hasNoLegs |
+pitviper |1        |1    |1         |
+seasnake |1        |1    |1         |
+stingray |1        |1    |1         |
+
+         |feathers |eggs |backbone |breathes |tail |hasTwoLegs |
+chicken  |1        |1    |1        |1        |1    |1          |
+crow     |1        |1    |1        |1        |1    |1          |
+dove     |1        |1    |1        |1        |1    |1          |
+duck     |1        |1    |1        |1        |1    |1          |
+flamingo |1        |1    |1        |1        |1    |1          |
+gull     |1        |1    |1        |1        |1    |1          |
+hawk     |1        |1    |1        |1        |1    |1          |
+kiwi     |1        |1    |1        |1        |1    |1          |
+lark     |1        |1    |1        |1        |1    |1          |
+ostrich  |1        |1    |1        |1        |1    |1          |
+parakeet |1        |1    |1        |1        |1    |1          |
+penguin  |1        |1    |1        |1        |1    |1          |
+pheasant |1        |1    |1        |1        |1    |1          |
+rhea     |1        |1    |1        |1        |1    |1          |
+skimmer  |1        |1    |1        |1        |1    |1          |
+skua     |1        |1    |1        |1        |1    |1          |
+sparrow  |1        |1    |1        |1        |1    |1          |
+swan     |1        |1    |1        |1        |1    |1          |
+vulture  |1        |1    |1        |1        |1    |1          |
+wren     |1        |1    |1        |1        |1    |1          |
+
+         |domestic |catsize |hasFourLegs |
+pony     |1        |1       |1           |
+pussycat |1        |1       |1           |
+reindeer |1        |1       |1           |
+
+         |fins |tail |hasNoLegs |
+sole     |1    |1    |1         |
+stingray |1    |1    |1         |
+tuna     |1    |1    |1         |
