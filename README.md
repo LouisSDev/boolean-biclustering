@@ -1,4 +1,4 @@
-# boolean-biclustering
+# Boolean Biclustering
 
 This project was realised as a student project. The goal was to understand and apply bi clustering algorithm on any dataset.
 
