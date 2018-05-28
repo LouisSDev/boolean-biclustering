@@ -8,4 +8,4 @@ We implemented it using two different algorithms one being highly inefficient wh
 
 [First Algorithm](https://github.com/LouisSDev/boolean-biclustering/blob/master/algo1.out)
 
-[Secomd (Better) Algorithm](https://github.com/LouisSDev/boolean-biclustering/blob/master/algo2.out)
+[Second (Better) Algorithm](https://github.com/LouisSDev/boolean-biclustering/blob/master/algo2.out)
