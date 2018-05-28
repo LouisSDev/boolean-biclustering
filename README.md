@@ -6,4 +6,6 @@ We've built a very simple boolean matrix clustering algorithm, quite ineffective
 
 We implemented it using two different algorithms one being highly inefficient while finding very few clusters, the other being able to check far more possibilities while having decent performances
 
+[First Algorithm](https://github.com/LouisSDev/boolean-biclustering/blob/master/algo1.out)
 
+[Secomd (Better) Algorithm](https://github.com/LouisSDev/boolean-biclustering/blob/master/algo2.out)
